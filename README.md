@@ -28,6 +28,6 @@ Fine-tune EfficientNet-B4 or ViT-Base on PlantVillage (→ 90 %+ F1). Export to 
 Text Q&A agronomy copilot
 1. Scrap public extension bulletins + Bayer-like labels.2. Store in FAISS or Azure AI Search.3. QLoRA-fine-tune Mistral-7B on 3–5 k self-generated Q-&-A pairs; wrap with a RAG scaffold so the LLM always cites retrieved docs.
 Multi-modal assistant
-Couple your vision model’s embedding head with a small language model via LLaVA-style alignment. Farmers snap a leaf photo + ask “What’s wrong and how do I treat it?”
+Couple your vision model’s embedding head with a small language model via LLaVA-style alignment. Farmers snap a leaf photo + ask “What’s wrong and how do I treat
 
 
